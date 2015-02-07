@@ -1,0 +1,24 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.rgapps.app</groupId>
+  <artifactId>msglayer</artifactId>
+  <version>1.0.1</version>
+
+      <dependencies>
+        <dependency>
+	    <groupId>org.zeromq</groupId>
+	    <artifactId>jeromq</artifactId>
+	    <version>0.3.2</version>
+        </dependency>
+<dependency>
+	<groupId>org.slf4j</groupId>
+	<artifactId>slf4j-api</artifactId>
+	<version>1.7.10</version>
+</dependency>
+<dependency>
+	<groupId>org.slf4j</groupId>
+	<artifactId>slf4j-log4j12</artifactId>
+	<version>1.7.10</version>
+</dependency>
+      </dependencies>
+</project>
